@@ -1,0 +1,2 @@
+# Programacion_Basica
+Estos conocimientos son libres y estarán su disposición. Los contenidos son aspectos básicos en la programación y sus fundamentos. Espero cumplir con la expectativa. Todo este material estará en desarrollo y orientado al estudiante entusiasta con el hambre de aprender.    También si gusta puede aportar con su granito de arena para crecer en conjunto. Le deseo lo mejor y podamos aprender =D.   
